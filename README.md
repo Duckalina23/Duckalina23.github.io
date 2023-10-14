@@ -1,3 +1,3 @@
 # duckalina23.github.io
 
-This is the GitHub Pages repo for Beek-a-Boo!
+This is the GitHub Pages repo for Beak-a-Boo!
